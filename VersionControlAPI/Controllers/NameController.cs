@@ -11,7 +11,7 @@ public class NameController : ControllerBase
     {
         return Ok(new
         {
-            name = "Hunter Ward - Version 2"
+           name = "Hunter Ward"
         });
     }
 }
